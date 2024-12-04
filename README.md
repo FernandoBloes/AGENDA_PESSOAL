@@ -23,12 +23,13 @@ Ferramentas utilizadas e bibliotecas
 Explicação de como deve ser utilizado o projeto 🛠️ 
 Este projeto desenvolve um sistema informatizado voltado para a organização de contatos pessoais. Ele oferece funcionalidades práticas para adicionar, visualizar, editar e remover contatos de forma eficiente.
 
-![agenda2](https://github.com/user-attachments/assets/da41f8b1-2d6b-46e4-be34-14f9404b464b)
-
-
-
-
 ![agenda3](https://github.com/user-attachments/assets/adac5a1d-e145-41c7-b2c0-6f31ede42e20)
+
+
+
+
+
+![agenda2](https://github.com/user-attachments/assets/da41f8b1-2d6b-46e4-be34-14f9404b464b)
 
 
 
